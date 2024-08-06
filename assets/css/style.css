@@ -113,7 +113,7 @@ html{
     position: relative;
     margin-top: 50px;
     padding-top: 50%;
-    background: url('../img/anhlinh\ \(1\).jpg') top center / cover no-repeat ;
+    background: url('../img/image.png') top center / cover no-repeat ;
     
 }
 
@@ -130,6 +130,7 @@ html{
 }
 .slider .text-description{
     font-size: 15px;
+    text-shadow: 0 0 2px #000;
 }
 
 .content .content-section{
